@@ -1,51 +1,17 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2022-11-28 22:15:14 +0900
+title:  "Research Paper about Alzheimer's Disease"
+date:   2022-11-04 22:15:14 +0900
 categories: devblog
 ---
-
-## Heading 2
-
-### Heading 3
-
-#### Heading 4
+## Introduction
 
 ---
 
-This is **bold text**
-This is *italicized text*
+According to the World Health Organization `(WHO)`, the world population aged over 60 years will have doubled in number by 2050, with an estimated total of 2 billion people.
 
->"quote from a famous person" reference.
+## Results
 
-1. number 1
-1. number 2
-1. number 3
+---
 
-## Ordered List
-
-1. number 4
-1. number 5
-1. number 6
-
-## Unordered List
-
-- list 1
-- list 2
-- list 3
-- list 4
-  - this is nested list 1
-  - this is nested list 2
-  - this is nested list 3
-    - another nested list 1
-
-When you want to move to another directory you can use `cd` as a command line. `ls`, `pwd`
-
-Markdown is pretty easy tio write!
-
-![markdownimage](https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg)
-
-![markdownimage](https://kirkstrobeck.github.io/whatismarkdown.com/img/markdown.png)
-
-you can find out more info at [this link](https://www.markdownguide.org/cheat-sheet/)
-
+Statistically signifcant differences were observed for the diferent CMG (p<0.001) and within the CMG for the diferent age groups for Memory Sweep (p=0.013), Babble Bots (p<0.001) and Unique (p<0.001).
